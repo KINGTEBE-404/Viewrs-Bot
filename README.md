@@ -7,8 +7,8 @@
 </p>
 
 
-![screen](https://github.com/KINGTEBE-404/Bot-Viewrs/blob/Kingtebe/IMG_20201027_111601.jpg)
-   ![](https://img.shields.io/badge/Pemograman-PHP-blue) ![](https://img.shields.io/badge/green) ![](https://img.shields.io/badge/Size-7.46KB-orange) ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
+![screen](https://github.com/KINGTEBE-404/Viewrs-Bot/blob/Kingtebe/Screenshot_2020-12-05-16-01-15-22.png)
+   ![](https://img.shields.io/badge/Pemograman-PHP-blue) ![](https://img.shields.io/badge/green) ![](https://img.shields.io/badge/Size-4.34KB-orange) ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
 
 ## Install script on Termux
 ```php
